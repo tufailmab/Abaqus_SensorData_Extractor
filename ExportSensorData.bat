@@ -1,0 +1,1 @@
+abaqus cae noGUI=ExportSensorData_All.py
